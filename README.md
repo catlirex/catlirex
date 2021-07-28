@@ -4,7 +4,7 @@
 ### About me:
 - Full Stack BootsCamp Student (6 months full-time course)
 - Looking for Junior Software Developer position
-- Coding is FUN and I love the way I can put my pass IT experience into my furture role.
+- Coding is FUN and I love the way I can put my PM experience into my furture role.
 - Past job experience in Start-up and Tech-Agency include: 
     -  Product & Project Management(APP/Web)
     -  Digital Marketing(SEO/SEM/CRM)
