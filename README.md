@@ -1,4 +1,4 @@
-## I'm Catherine. Who always stay Hungry.
+## Stay Hungry. Challenge Acepted
 
 ### About me:
 - Full Stack BootsCamp Student
