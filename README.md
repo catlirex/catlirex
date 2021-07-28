@@ -1,4 +1,5 @@
 ## Stay Hungry. Challenge Accepted
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture)](https://github.com/catlirex)
 
 ### About me:
 - Full Stack BootsCamp Student (6 months full-time course)
@@ -10,7 +11,7 @@
 - I love travel and explore the world
 - From Hong Kong, current live in UK
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/catlirex)
+
 
 #### Languages and Tools that keep practising...
 
