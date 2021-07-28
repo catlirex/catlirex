@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### Github Stats
+![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catlirex&layout=compact&theme=tokyonight)
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=LondonTransportApp-TFL-React-TS-Zustand-ReactLeafet-StyledComponent&langs_count=8&width=100)
+
+
+
 <!--
 **catlirex/catlirex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
