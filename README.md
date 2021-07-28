@@ -1,4 +1,4 @@
-## Stay Hungry. Challenge Acepted
+## Stay Hungry. Challenge Accepted
 
 ### About me:
 - Full Stack BootsCamp Student
