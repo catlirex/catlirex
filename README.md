@@ -10,8 +10,7 @@
 - I love travel and explore the world
 - From Hong Kong, current live in UK
 
-#### Github Stats 
-[![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/catlirex)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/catlirex)
 
 #### Languages and Tools that keep practising...
 
