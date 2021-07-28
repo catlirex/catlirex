@@ -1,26 +1,30 @@
-### Hi there 👋
+## I'm Catherine. Who always stay Hungry.
 
-#### Github Stats
+### About me:
+- Full Stack BootsCamp Student
+- Looking for Junior Software Developer position
+- Coding is FUN and I love the way I can put my pass IT experience into my furture role.
+- Past job experience in Start-up and Tech-Agency include: 
+    -  Product & Project Management(APP/Web)
+    -  Digital Marketing(SEO/SEM/CRM)
+- I love travel and explore the world
+- From Hong Kong, current live in UK
+
+#### Github Stats 
 [![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/catlirex)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catlirex&layout=compact&theme=tokyonight)](https://github.com/catlirex)
+
+#### Languages and Tools that keep practising...
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catlirex&layout=compact&theme=tokyonight&hide_border=ture)](https://github.com/catlirex)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=LondonTransportApp-TFL-React-TS-Zustand-ReactLeafet-StyledComponent)](https://github.com/catlirex/LondonTransportApp-TFL-React-TS-Zustand-ReactLeafet-StyledComponent)
-
-
-
-
-<!--
-**catlirex/catlirex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Latest Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=LondonTransportApp-TFL-React-TS-Zustand-ReactLeafet-StyledComponent&theme=highcontrast)](https://github.com/catlirex/LondonTransportApp-TFL-React-TS-Zustand-ReactLeafet-StyledComponent)
