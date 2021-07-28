@@ -1,9 +1,16 @@
-## Stay Hungry. Challenge Accepted 
+## Stay Hungry. Challenge Accepted
+[<img align="left" alt="Telegram" width="22px" src="https://telegram.org/img/t_logo.png?1"/>](https://msng.link/o/?catli0912=tg) 
+[<img align="left" alt="LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/catherine-lmy/)
+<a target="_blank" href="mailto:catherine.uk.20@gmail.com">
+  <img align="left" alt="Gmail" width="25px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-icon-1.png" />
+</a>
 
+</br></br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true)](https://github.com/catlirex)
 
 
-### About me: [<img align="right" alt="Telegram" width="22px" src="https://telegram.org/img/t_logo.png?1"/>](https://msng.link/o/?catli0912=tg) [<img align="right" alt="LinkedIn" width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>](https://www.linkedin.com/in/catherine-lmy/) 
+### About me:
+
 - Full Stack BootsCamp Student (6 months full-time course)
 - Looking for Junior Software Developer position
 - Coding is FUN and I love the way I can put my PM experience into my furture role.
