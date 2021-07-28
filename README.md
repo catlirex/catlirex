@@ -1,5 +1,5 @@
 ## Stay Hungry. Challenge Accepted
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture)](https://github.com/catlirex)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true)](https://github.com/catlirex)
 
 ### About me:
 - Full Stack BootsCamp Student (6 months full-time course)
