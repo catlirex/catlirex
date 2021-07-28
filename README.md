@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### Github Stats
-![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catlirex&layout=compact&theme=tokyonight)
+[![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=catlirex&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/catlirex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catlirex&layout=compact&theme=tokyonight)](https://github.com/catlirex)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=LondonTransportApp-TFL-React-TS-Zustand-ReactLeafet-StyledComponent)](https://github.com/catlirex/LondonTransportApp-TFL-React-TS-Zustand-ReactLeafet-StyledComponent)
