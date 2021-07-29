@@ -11,7 +11,7 @@
 
 ### About me:
 
-- Full Stack BootsCamp Student (6 months full-time course)
+- Full Stack Bootcamp Student (6 months full-time course)
 - Looking for Junior Software Developer position
 - Coding is FUN and I love the way I can put my PM experience into my furture role.
 - Past job experience in Start-up and Tech-Agency include: 
@@ -19,7 +19,7 @@
     -  Digital Marketing(SEO/SEM/CRM)
 - I love travel:airplane: To explore the world
 - I love drawing too!!:art:  To capture the moment and express feeling
-- From Hong Kong, current live in UK:uk:
+- From Hong Kong, current living in UK:uk:
 
 
 ### Latest Project
