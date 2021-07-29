@@ -17,7 +17,8 @@
 - Past job experience in Start-up and Tech-Agency include: 
     -  Product & Project Management(APP/Web)
     -  Digital Marketing(SEO/SEM/CRM)
-- I love travel and explore the world
+- I love travel to explore the world
+- I love drawing too to capture the moment and express feeling
 - From Hong Kong, current live in UK
 
 
