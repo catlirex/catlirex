@@ -21,6 +21,8 @@
 
 
 ## Latest Project
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=boolean-uk-api-final-project&theme=highcontrast)](https://github.com/catlirex/boolean-uk-api-final-project) |  |
+|---|:---:|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=LondonTransportApp-TFL-Refactor&theme=highcontrast)](https://github.com/catlirex/LondonTransportApp-TFL-Refactor) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=USStockApp-vanillaJS-TS&theme=highcontrast)](https://github.com/catlirex/USStockApp-vanillaJS-TS) |
 |---|:---:|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=boolean-uk-react-crypto-tracker&theme=highcontrast)](https://github.com/catlirex/boolean-uk-react-crypto-tracker) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=boolean-uk-html-project&theme=highcontrast)](https://github.com/catlirex/boolean-uk-html-project) |
@@ -35,6 +37,8 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/prisma/prisma.png"></code>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catlirex&layout=compact&theme=tokyonight&hide_border=ture)](https://github.com/catlirex)
 
