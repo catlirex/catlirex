@@ -11,9 +11,9 @@
 
 ## About me:
 
-:mortar_board:  &nbsp; Full Stack Bootcamp Student (6 months full-time course)</br>
- :mega: &nbsp; Looking for Software Developer position</br>
- :bulb:  &nbsp;  Coding is FUN and I love the way I can put my Product Management experience into my furture role.</br>
+
+ :mega: &nbsp; Full Stack Developer at eduMe</br>
+ :bulb:  &nbsp;  Coding is FUN and I love the way I can put my Product Management experience into code.</br>
  :computer:  &nbsp;  Past job experience in Start-up and Tech-Agency</br>
  :airplane:  &nbsp;  I love travel To explore the world</br>
  :art:  &nbsp;  I love drawing too!!  To capture the moment and express feeling</br>
