@@ -20,13 +20,6 @@
  :uk:  &nbsp;  From Hong Kong, current living in UK</br>
 
 
-## Latest Project
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=boolean-uk-api-final-project&theme=highcontrast)](https://github.com/catlirex/boolean-uk-api-final-project) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=LondonTransportApp-TFL-Refactor&theme=highcontrast)](https://github.com/catlirex/LondonTransportApp-TFL-Refactor) |
-|---|:---:|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=boolean-uk-html-project&theme=highcontrast)](https://github.com/catlirex/boolean-uk-html-project) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=boolean-uk-js-project&theme=highcontrast)](https://github.com/catlirex/boolean-uk-js-project) |
-|---|:---:|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catlirex&repo=boolean-uk-react-crypto-tracker&theme=highcontrast)](https://github.com/catlirex/boolean-uk-react-crypto-tracker) |  |
-
 
 ## Languages and Tools that keep practising...
 
