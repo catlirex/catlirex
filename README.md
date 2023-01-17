@@ -32,5 +32,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catlirex&layout=compact&theme=tokyonight&hide_border=ture)](https://github.com/catlirex)
+
 
