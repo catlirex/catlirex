@@ -11,7 +11,7 @@
 ## About me:
 
 
- :mega: &nbsp; Full Stack Developer at eduMe</br>
+ :mega: &nbsp; Full Stack Developer at Moody's</br>
  :bulb:  &nbsp;  Coding is FUN and I love the way I can put my Product Management experience into code.</br>
  :computer:  &nbsp;  Past job experience in Start-up and Tech-Agency</br>
  :airplane:  &nbsp;  I love travel To explore the world</br>
@@ -22,13 +22,14 @@
 
 ## Languages and Tools that keep practising...
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="35" src="https://github.com/catlirex/catlirex/assets/81304846/079d1560-46a0-4ea5-bf06-da79e41b30ae"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="35" src="https://github.com/catlirex/catlirex/assets/81304846/547f1115-83c3-42eb-afb9-a3b5831500c4"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35" src="https://github.com/catlirex/catlirex/assets/81304846/14dd76f0-d6d1-43eb-a968-7d5ec76f0f23"></code>
 
 
 
